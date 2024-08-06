@@ -3,3 +3,9 @@
 
 # Ignore VS Code configuration files.
 .vscode
+
+# Ignore binary files.
+bin/
+
+# Ignore C object files.
+*.o
